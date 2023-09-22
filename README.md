@@ -49,8 +49,7 @@
 
 <br />   
 
-  ### ***⠀⠀⠀⠀⭐ Ao Executar o programa o usuario vera os campos de seleção e preenchimento, para fazer seu registro de entrada ou saida, e escolher também um categoria, sendo também possivel o registro de novas categorias.
-
+  ### ***⠀⠀⠀⠀⭐ Este é o nosso site, conheça o mapa do site, Home page, pagina de agradecimentos, de erro e de arquivos não encontrados.
 <br />   
 
 
@@ -65,9 +64,10 @@
 
 ### 💻 Desktop 
   
- ⭐ Login | ⭐ Registro | ⭐ Feed |
+ ⭐ Exemplo de uso | ⭐ Registro | ⭐ Feed |
 |---|---|---|
-![HomePage]() | ![Detalhes]() | ![Detalhes]()
+!![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/0940d86c-98b3-47ee-a8c0-0f0e3db58c2c)
+ | ![Detalhes]() | ![Detalhes]()
 
 
 <br/>
