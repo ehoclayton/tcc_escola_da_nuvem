@@ -56,7 +56,9 @@
 
 ⭐ Home Page | ⭐ Agradecimentos | ⭐ Pagina Error | ⭐ Pagina Não Encontrado |
 |---|---|---|---|
-![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/dc1a49b0-9c62-40f6-a6fa-d8f6dd03caf5) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/219c6fb2-39fd-4d0a-9b06-ff67335a2f38) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/d710f9b9-79a8-416b-b3b1-477e5485fb0a) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/ba8aa349-1339-423d-a310-6ddcd7aab516)
+![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/dc1a49b0-9c62-40f6-a6fa-d8f6dd03caf5) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/d710f9b9-79a8-416b-b3b1-477e5485fb0a) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/ba8aa349-1339-423d-a310-6ddcd7aab516) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/10c42100-b50d-4815-abad-c4bb3675f1db)
+![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/219c6fb2-39fd-4d0a-9b06-ff67335a2f38)
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
