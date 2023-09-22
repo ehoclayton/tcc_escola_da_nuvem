@@ -56,7 +56,9 @@
 
 ⭐ Executando | ⭐ Registrando | ⭐ Cadastrando | ⭐ Analisando |
 |---|---|---|---|
-![HomePagePhone](https://github.com/ehoclayton/FluxoDeCaixa_Control/assets/93559228/10ff8967-ece5-441f-9f7f-2f0ce92b1490) | ![DetalhesPhone](https://github.com/ehoclayton/FluxoDeCaixa_Control/assets/93559228/f254b54c-b8b9-46c4-8182-7dfcd4601589) | ![DetalhesPhone](https://github.com/ehoclayton/FluxoDeCaixa_Control/assets/93559228/04d1370e-950b-4c30-b60e-2e6833adabf0) | ![DetalhesPhone](https://github.com/ehoclayton/FluxoDeCaixa_Control/assets/93559228/41f0f29a-1247-4721-876d-126087320a07)
+![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/dc1a49b0-9c62-40f6-a6fa-d8f6dd03caf5) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/219c6fb2-39fd-4d0a-9b06-ff67335a2f38)
+ | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/d710f9b9-79a8-416b-b3b1-477e5485fb0a) | ![image](https://github.com/ehoclayton/tcc_escola_da_nuvem/assets/93559228/ba8aa349-1339-423d-a310-6ddcd7aab516)
+
   
   
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
