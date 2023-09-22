@@ -761,18 +761,12 @@ footer {
 > Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
 
 ```BASH
-git clone https://github.com/ehoclayton/FluxoDeCaixa_Control
+git clone https://github.com/ehoclayton/tcc_escola_da_nuvem
 ```
 
 <br /> 
 
-> Caso já tenha o Node em sua maquina basta instalar o projeto com npm i
-
-```BASH
-npm i 
-```
-
-<br /> 
+Iremos hospedar o site em um dominio proprio, aguarde para novidades.
 
 
 <a href="#Sumário"> 📖 Volta ao Sumário </a>
@@ -785,12 +779,6 @@ npm i
 
 <br /> 
 
-- [ ] ***- Testa todo o código.*** 
-- [ ] ***- Pesquisar o perfil com nome*** 
-- [ ] ***- *** 
-- [x] ***- *** 
-
-<br/>
 
 <a href="#Sumário"> 📖 Volta ao Sumário </a>
 
